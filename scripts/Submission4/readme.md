@@ -9,3 +9,7 @@
   3.File is then accessed using the **'r'** permission  to append into the file bu taking user input<br >
   
   4.File is then accessed using the **'r'** permission to read the contents and written into the console.<br />
+
+**file1.txt**
+stores the data and file that is being used to perform operations.
+  
