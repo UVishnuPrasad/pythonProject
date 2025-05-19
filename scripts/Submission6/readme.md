@@ -26,10 +26,8 @@ Entry widget for input handling
 Button widgets for arithmetic operations
 
 Lambda functions for button clicks
-
 #Image
-![Calculator UI](scripts/Submission6/Screenshot 2025-05-19 105556.png)
-
+https://github.com/UVishnuPrasad/pythonProject/blob/main/scripts/Submission6/Screenshot.png
 
 Author
 Vishnu - [ GitHub Profile](https://github.com/UVishnuPrasad/)
